@@ -3,7 +3,7 @@ A responsive and secure Password Generator built using HTML, CSS, and JavaScript
 
 ---
 
-## 📌 Features
+## Features
 
 - Generate **strong and random passwords**
 - Customizable password length
@@ -18,7 +18,7 @@ A responsive and secure Password Generator built using HTML, CSS, and JavaScript
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the application  
 - **CSS3** – Styling and responsive design  
@@ -26,7 +26,7 @@ A responsive and secure Password Generator built using HTML, CSS, and JavaScript
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. User selects the desired password length
 2. User chooses character options (uppercase, numbers, symbols, etc.)
@@ -35,7 +35,7 @@ A responsive and secure Password Generator built using HTML, CSS, and JavaScript
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Password-Generator/
